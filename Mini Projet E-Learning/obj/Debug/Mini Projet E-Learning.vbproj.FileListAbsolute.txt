@@ -1,0 +1,142 @@
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\bin\Debug\Mini Projet E-Learning.exe.config
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\bin\Debug\Mini Projet E-Learning.exe
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\bin\Debug\Mini Projet E-Learning.pdb
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\bin\Debug\Mini Projet E-Learning.xml
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini Projet E-Learning.vbprojAssemblyReference.cache
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Compt.resources
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Loginadmin.resources
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Logincond.resources
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Menu1.resources
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Menu2.resources
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Resources.resources
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini Projet E-Learning.vbproj.GenerateResource.cache
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini Projet E-Learning.vbproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini Projet E-Learning.exe
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini Projet E-Learning.xml
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini Projet E-Learning.pdb
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Certificat.resources
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Formation.resources
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Gèrer_clients.resources
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.QCM_Test.resources
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Conjugaison.resources
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Grammaire.resources
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Temps.resources
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Vocabilaire.resources
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Correction1.resources
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question10Niveau1.resources
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question1Niveau1.resources
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question2Niveau1.resources
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question3Niveau1.resources
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question4Niveau1.resources
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question5Niveau1.resources
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question6Niveau1.resources
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question7Niveau1.resources
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question8Niveau1.resources
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question9Niveau1.resources
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Resultat1.resources
+C:\Users\pc\source\repos\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.validation1.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\bin\Debug\Mini Projet E-Learning.exe.config
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\bin\Debug\Mini Projet E-Learning.exe
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\bin\Debug\Mini Projet E-Learning.pdb
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\bin\Debug\Mini Projet E-Learning.xml
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini Projet E-Learning.vbprojAssemblyReference.cache
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Certificat.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Compt.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Conjugaison.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Correction1.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Formation.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Grammaire.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Gèrer_clients.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Loginadmin.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Logincond.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Menu1.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Menu2.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Resources.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.QCM_Test.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question10Niveau1.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question1Niveau1.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question2Niveau1.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question3Niveau1.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question4Niveau1.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question5Niveau1.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question6Niveau1.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question7Niveau1.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question8Niveau1.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question9Niveau1.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Temps.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.validation1.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Vocabilaire.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini Projet E-Learning.vbproj.GenerateResource.cache
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini Projet E-Learning.exe
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini Projet E-Learning.xml
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini Projet E-Learning.pdb
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini Projet E-Learning.vbproj.ResolveComReference.cache
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.PDF.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.QuestionsNiveau2.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.validation2.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.QuestionsNiveau3.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.validation3.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.QuestionsNiveau4.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Validation4.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\bin\Debug\Mini Projet E-Learning.exe.config
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\bin\Debug\Mini Projet E-Learning.exe
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\bin\Debug\Mini Projet E-Learning.pdb
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\bin\Debug\Mini Projet E-Learning.xml
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini Projet E-Learning.vbprojAssemblyReference.cache
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini Projet E-Learning.vbproj.ResolveComReference.cache
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Certificat.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Compt.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Conjugaison.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Correction1.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Formation.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Grammaire.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Gèrer_clients.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Loginadmin.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Logincond.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Menu1.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Menu2.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Resources.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.PDF.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.QCM_Test.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question10Niveau1.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question1Niveau1.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question2Niveau1.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question3Niveau1.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question4Niveau1.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question5Niveau1.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question6Niveau1.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question7Niveau1.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question8Niveau1.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Question9Niveau1.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.QuestionsNiveau2.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.QuestionsNiveau3.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.QuestionsNiveau4.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Temps.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.validation1.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.validation2.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.validation3.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Validation4.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.Vocabilaire.resources
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini Projet E-Learning.vbproj.GenerateResource.cache
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini Projet E-Learning.vbproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini Projet E-Learning.exe
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini Projet E-Learning.xml
+C:\Users\pc\Downloads\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini Projet E-Learning.pdb
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.correction2.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.correction3.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.correction4.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\bin\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\bin\Debug\AxInterop.Microsoft.Office.Interop.Outlook.dll
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\AxInterop.Microsoft.Office.Interop.Outlook.dll
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.ppt.resources
+C:\Users\pc\Desktop\Mini Projet E-Learning\Mini Projet E-Learning\obj\Debug\Mini_Projet_E_Learning.à_propos.resources

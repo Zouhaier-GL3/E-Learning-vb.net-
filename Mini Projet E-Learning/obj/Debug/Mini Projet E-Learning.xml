@@ -1,0 +1,201 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Mini Projet E-Learning
+</name>
+</assembly>
+<members>
+<member name="T:Mini_Projet_E_Learning.My.Resources.Resources">
+<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.ResourceManager">
+<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.Culture">
+<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources._3d_bar_chart">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources._835798bcfdb9e56">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources._Erase">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.Add">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.bars">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.Capture1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.circle">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.Close">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.coffee141_005727">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.courses_letters_blackboard_board_staff_book_1475">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.customer_person_people_man_you_1625">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.eggbrew_007712">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.foolish">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.Home">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.Import">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.licensemanagernumbers_licencia_gerente_1498">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.Magic_hat">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.man_012001644">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.man_pointing">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.man_roof">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.math">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.Next_arrow_1559">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.person_user_customer_man_male_man_boy_people_1687">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.product_document_file_1512">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.Red_book">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.Save_as">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.square">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.table">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.téléchargement__3_">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.trianlge">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.trophy_gold_1528">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.user_add_12818">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.user_eliminate_12817">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.User_Manual_80_icon_icons_com_57245">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Projet_E_Learning.My.Resources.Resources.users_12820">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

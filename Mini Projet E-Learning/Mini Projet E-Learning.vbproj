@@ -1,0 +1,601 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DB7084DF-5ECD-4365-8479-75E6DE7827C6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Mini_Projet_E_Learning.My.MyApplication</StartupObject>
+    <RootNamespace>Mini_Projet_E_Learning</RootNamespace>
+    <AssemblyName>Mini Projet E-Learning</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Mini Projet E-Learning.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Mini Projet E-Learning.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Certificat.Designer.vb">
+      <DependentUpon>Certificat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Certificat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compt.Designer.vb">
+      <DependentUpon>Compt.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conjugaison.Designer.vb">
+      <DependentUpon>Conjugaison.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Conjugaison.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Correction1.Designer.vb">
+      <DependentUpon>Correction1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Correction1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="correction2.Designer.vb">
+      <DependentUpon>correction2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="correction2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="correction3.Designer.vb">
+      <DependentUpon>correction3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="correction3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="correction4.Designer.vb">
+      <DependentUpon>correction4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="correction4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formation.Designer.vb">
+      <DependentUpon>Formation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Grammaire.Designer.vb">
+      <DependentUpon>Grammaire.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Grammaire.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gèrer clients.Designer.vb">
+      <DependentUpon>Gèrer clients.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gèrer clients.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loginadmin.Designer.vb">
+      <DependentUpon>Loginadmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Loginadmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Logincond.Designer.vb">
+      <DependentUpon>Logincond.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Logincond.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu1.Designer.vb">
+      <DependentUpon>Menu1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu2.Designer.vb">
+      <DependentUpon>Menu2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PDF.Designer.vb">
+      <DependentUpon>PDF.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PDF.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ppt.Designer.vb">
+      <DependentUpon>ppt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ppt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QCM_Test.Designer.vb">
+      <DependentUpon>QCM_Test.vb</DependentUpon>
+    </Compile>
+    <Compile Include="QCM_Test.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Question10Niveau1.Designer.vb">
+      <DependentUpon>Question10Niveau1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Question10Niveau1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Question1Niveau1.Designer.vb">
+      <DependentUpon>Question1Niveau1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Question1Niveau1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Question2Niveau1.Designer.vb">
+      <DependentUpon>Question2Niveau1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Question2Niveau1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Question3Niveau1.Designer.vb">
+      <DependentUpon>Question3Niveau1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Question3Niveau1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Question4Niveau1.Designer.vb">
+      <DependentUpon>Question4Niveau1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Question4Niveau1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Question5Niveau1.Designer.vb">
+      <DependentUpon>Question5Niveau1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Question5Niveau1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Question6Niveau1.Designer.vb">
+      <DependentUpon>Question6Niveau1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Question6Niveau1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Question7Niveau1.Designer.vb">
+      <DependentUpon>Question7Niveau1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Question7Niveau1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Question8Niveau1.Designer.vb">
+      <DependentUpon>Question8Niveau1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Question8Niveau1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Question9Niveau1.Designer.vb">
+      <DependentUpon>Question9Niveau1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Question9Niveau1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuestionsNiveau2.Designer.vb">
+      <DependentUpon>QuestionsNiveau2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="QuestionsNiveau2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuestionsNiveau3.Designer.vb">
+      <DependentUpon>QuestionsNiveau3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="QuestionsNiveau3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuestionsNiveau4.Designer.vb">
+      <DependentUpon>QuestionsNiveau4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="QuestionsNiveau4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Temps.Designer.vb">
+      <DependentUpon>Temps.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Temps.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="validation1.Designer.vb">
+      <DependentUpon>validation1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="validation1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="validation2.Designer.vb">
+      <DependentUpon>validation2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="validation2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="validation3.Designer.vb">
+      <DependentUpon>validation3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="validation3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Validation4.Designer.vb">
+      <DependentUpon>Validation4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Validation4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vocabilaire.Designer.vb">
+      <DependentUpon>Vocabilaire.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vocabilaire.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="propos.Designer.vb">
+      <DependentUpon>propos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="propos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Certificat.resx">
+      <DependentUpon>Certificat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compt.resx">
+      <DependentUpon>Compt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conjugaison.resx">
+      <DependentUpon>Conjugaison.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Correction1.resx">
+      <DependentUpon>Correction1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="correction2.resx">
+      <DependentUpon>correction2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="correction3.resx">
+      <DependentUpon>correction3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="correction4.resx">
+      <DependentUpon>correction4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formation.resx">
+      <DependentUpon>Formation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Grammaire.resx">
+      <DependentUpon>Grammaire.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gèrer clients.resx">
+      <DependentUpon>Gèrer clients.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loginadmin.resx">
+      <DependentUpon>Loginadmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Logincond.resx">
+      <DependentUpon>Logincond.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu1.resx">
+      <DependentUpon>Menu1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu2.resx">
+      <DependentUpon>Menu2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PDF.resx">
+      <DependentUpon>PDF.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ppt.resx">
+      <DependentUpon>ppt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QCM_Test.resx">
+      <DependentUpon>QCM_Test.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question10Niveau1.resx">
+      <DependentUpon>Question10Niveau1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question1Niveau1.resx">
+      <DependentUpon>Question1Niveau1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question2Niveau1.resx">
+      <DependentUpon>Question2Niveau1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question3Niveau1.resx">
+      <DependentUpon>Question3Niveau1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question4Niveau1.resx">
+      <DependentUpon>Question4Niveau1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question5Niveau1.resx">
+      <DependentUpon>Question5Niveau1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question6Niveau1.resx">
+      <DependentUpon>Question6Niveau1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question7Niveau1.resx">
+      <DependentUpon>Question7Niveau1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question8Niveau1.resx">
+      <DependentUpon>Question8Niveau1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question9Niveau1.resx">
+      <DependentUpon>Question9Niveau1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuestionsNiveau2.resx">
+      <DependentUpon>QuestionsNiveau2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuestionsNiveau3.resx">
+      <DependentUpon>QuestionsNiveau3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuestionsNiveau4.resx">
+      <DependentUpon>QuestionsNiveau4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Temps.resx">
+      <DependentUpon>Temps.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="validation1.resx">
+      <DependentUpon>validation1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="validation2.resx">
+      <DependentUpon>validation2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="validation3.resx">
+      <DependentUpon>validation3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Validation4.resx">
+      <DependentUpon>Validation4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vocabilaire.resx">
+      <DependentUpon>Vocabilaire.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="propos.resx">
+      <DependentUpon>propos.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\person_user_customer_man_male_man_boy_people_1687.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer_person_people_man_you_1625.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Next_arrow_1559.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_add_12818.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_eliminate_12817.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users_12820.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Magic_hat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red_book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3d_bar_chart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User_Manual-80_icon-icons.com_57245.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\licensemanagernumbers_licencia_gerente_1498.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AxMicrosoft.Office.Interop.Outlook">
+      <Guid>{00062FFF-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>9</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Outlook">
+      <Guid>{00062FFF-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>9</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trophy_gold_1528.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\courses_letters_blackboard_board_staff_book_1475.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\product_document_file_1512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\foolish.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\man_012001644.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\table.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eggbrew_007712.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee141_005727.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\man-roof.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\man-pointing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bars.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\math.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trianlge.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\square.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Erase.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Import.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save_as.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

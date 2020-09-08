@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Label1.Text" xml:space="preserve">
+    <value>Cette application créée par Zouhaïr Barroute est une application E-learning qui vous permet de maitriser la langue anglaise d'après des méthodes très simple et efficace aussi on peut faire la gestion et l'enregistrement de chaque membres(condidats).
+Cette application met à la disposition des appreants des cours répartis sur quatre niveaux.
+A la fin de chaque cours, les appreants auront un test de validation de niveau comportant dix questions chacun. 
+Pour passer d'un niveau à niveau suivant, l'apprenant doit avoir une note supérieur ou égale à 7.
+Un certificat de réussite est délivré à l'apprenat, s'il passe avec succès tous les niveaux...
+Bonne Chance...!!!</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="PictureBox2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        rkJggg==
+</value>
+  </data>
+</root>
